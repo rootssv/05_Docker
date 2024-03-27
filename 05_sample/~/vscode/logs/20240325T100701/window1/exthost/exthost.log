@@ -1,0 +1,23 @@
+2024-03-25 10:07:06.504 [info] Extension host with pid 5111 started
+2024-03-25 10:07:06.885 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-25 10:07:07.018 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-25 10:07:07.155 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-25 10:07:07.474 [info] Eager extensions activated
+2024-03-25 10:07:07.500 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-25 10:07:07.504 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-25 10:07:30.733 [info] Extension host terminating: renderer closed the MessagePort
+2024-03-25 10:07:30.800 [info] Extension host with pid 5111 exiting with code 0
+2024-03-25 10:07:33.012 [info] Extension host with pid 5233 started
+2024-03-25 10:07:33.012 [info] Skipping acquiring lock for /root/docker/05_sample/~/vscode/User/workspaceStorage/c926a0e20ef92f92fd8294b33d28cf67.
+2024-03-25 10:07:33.178 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-03-25 10:07:33.194 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-25 10:07:33.291 [info] Eager extensions activated
+2024-03-25 10:07:33.319 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-25 10:07:33.328 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-25 10:07:36.722 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-03-25 10:07:41.317 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugInitialConfigurations'
+2024-03-25 10:07:41.840 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onDebugInitialConfigurations'
+2024-03-25 10:07:43.696 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2024-03-25 10:07:43.730 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-25 10:08:56.631 [info] Extension host terminating: renderer closed the MessagePort
+2024-03-25 10:08:56.770 [info] Extension host with pid 5233 exiting with code 0

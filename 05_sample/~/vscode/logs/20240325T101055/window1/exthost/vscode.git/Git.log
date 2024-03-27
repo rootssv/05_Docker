@@ -1,0 +1,9 @@
+2024-03-25 10:11:03.759 [info] 로그 수준: Info
+2024-03-25 10:11:03.759 [info] "git"에서 찾은 git 유효성을 검사하는 중
+2024-03-25 10:11:03.759 [info] "2.43.0"에서 git "git"을(를) 사용하는 중
+2024-03-25 10:11:03.759 [info] > git rev-parse --show-toplevel [32ms]
+2024-03-25 10:11:03.759 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-25 10:11:03.764 [info] > git rev-parse --show-toplevel [8ms]
+2024-03-25 10:11:03.765 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-25 10:11:15.909 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-25 10:11:15.909 [info] fatal: not a git repository (or any of the parent directories): .git
